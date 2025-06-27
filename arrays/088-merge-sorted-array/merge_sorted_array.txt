@@ -1,0 +1,20 @@
+🚀 LeetCode Practice – Problem #88: Merge Sorted Array (Java + Python)
+
+Today I solved an essential array problem that frequently appears in coding interviews:
+🧩 Merge two sorted arrays in-place using an optimized two-pointer approach.
+
+✅ Key Highlights:
+
+Language: Java & Python
+
+Time Complexity: O(m + n)
+
+Space Complexity: O(1) — No extra space!
+
+Technique: Traverse from the end of both arrays to avoid overwriting values.
+
+🧠 Takeaway: Mastering two-pointer strategies and in-place algorithms is vital for optimizing performance in interviews and real-world applications.
+
+💻 GitHub Code: https://github.com/SreenivasuluReddicherla/DSALeetcode/tree/main/arrays/088-merge-sorted-array
+
+#leetcode #dsa #java #python #codinginterview #twopointer #100DaysOfCode #LinkedInLearning #GitHub
